@@ -1,7 +1,7 @@
-- 唱歌
+- singing
 
-- 看电影
+- movie
 
-- 游戏
+- gaming
 
-- 阅读
+- reading
