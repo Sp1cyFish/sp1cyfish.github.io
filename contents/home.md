@@ -1,8 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![lsr](https://img.shields.io/badge/lsr-github-blue?logo=github)](https://github.com/Sp1cyFish)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+一名爱好广泛的大学生...
 
 #### Email
 762242876@qq.com
